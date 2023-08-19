@@ -18,7 +18,7 @@ In the competitive hospitality landscape, data-driven decision-making is crucial
 To access and utilize the Atliq Hospitality Revenue Insights Dashboard:
 
 1. Clone or download the repository to your local machine.
-2. Set up the necessary dependencies as outlined in the provided documentation.
+2. Set up the necessary dependencies as outlined in the provided documentation.(i/e Microsoft PowerBI)
 3. Configure data sources to feed the dashboard with relevant data.
 4. Customize the dashboard's appearance and functionality to align with your specific requirements.
 5. Deploy the dashboard to a hosting environment of your choice.
